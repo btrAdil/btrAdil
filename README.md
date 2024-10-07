@@ -1,4 +1,3 @@
-![Unity Game Developer Banner](./header.png)
 
 <h1 align="center">Hi there 👋, I'm Adil</h1>
 <h3 align="center">Passionate Unity game developer with a strong background in C#, game design, UI/UX and more. Always looking to help, learn and grow.</h3>
@@ -15,7 +14,7 @@
 
 - 📫 How to reach me **bantouradil@outlook.com**
 
-- ⚡ Fun fact **Gamer at heart, with a love for RPGs and puzzle games**
+- ⚡ Always on the lookout for **new experiences and challenges** in game development.
 
 
 <h3 align="left">Languages and Tools:</h3>
