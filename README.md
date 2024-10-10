@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **advanced graphics programming in Unity**
+🌱 I’m currently learning GPU compute shaders in Unity (HLSL).
 
 - 👨‍💻 My projects are available at [Portfolio](https://github.com/btrAdil/Portfolio)
 
